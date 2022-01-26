@@ -1,7 +1,10 @@
 *{
-    background-color: darkcyan;
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
+}
+
+html{
+    background-color: lightcyan;
 }
 
 .title{
