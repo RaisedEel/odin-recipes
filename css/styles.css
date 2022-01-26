@@ -1,0 +1,18 @@
+*{
+    background-color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.title{
+    color: white;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+p, ol, ul, a{
+    font-size: 20px;
+}
